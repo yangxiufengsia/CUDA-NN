@@ -25,7 +25,7 @@ int main(int argc, const char * argv[])
 {
     int i, j, m, n, h, o, k, p, epoch;
     double sum1=0.0, sum2=0.0, gr1=0.0, gr2=0.0;
-    double Loss=0.0, T_loss=0.0, lr = 0.001;
+    double Loss=0.0, T_loss=0.0, lr = 0.05;
 
     /* allocate memory size for W1, W2, z1, z2, a1, a2*/
     int* randput=malloc(input_num*sizeof(int));
@@ -144,7 +144,7 @@ int main(int argc, const char * argv[])
     
     /* Stochastic gradient descent*/
     
-    for (epoch=0 ; epoch<200; epoch++)
+    for (epoch=0 ; epoch<50; epoch++)
     {
         // randomize the order of training data
         srand (time(NULL));
