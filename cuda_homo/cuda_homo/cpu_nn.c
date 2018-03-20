@@ -2,8 +2,8 @@
 //  main.c
 //  C_start
 //
-//  Created by 楊しゅうほう on 3/7/18.
-//  Copyright © 2018 楊しゅうほう. All rights reserved.
+//  Created by Xiufeng Yang on 3/7/18.
+//  Copyright © 2018 Xiufeng Yang. All rights reserved.
 //
 
 #include <stdio.h>
