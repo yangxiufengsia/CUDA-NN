@@ -22,18 +22,12 @@ After running the above two version code, you can compare the speed between CPU 
 
 # Training results
 
-loss: 0.004168 
-
+loss: 0.004168
 loss: 0.003697 
-
 loss: 0.003471 
-
 loss: 0.003288 
-
 loss: 0.003131 
-
 loss: 0.002994 
-
 loss: 0.002872 
 loss: 0.002763 
 loss: 0.002664 
@@ -77,6 +71,8 @@ loss: 0.001275
 loss: 0.001260 
 loss: 0.001245 
 loss: 0.001231 
+
+
 Time elapsed training  on GPU: 231026.109375 ms.
 
 Predicted : 0.275531 True : 0.321664  
