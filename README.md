@@ -20,7 +20,7 @@ After running the above two version code, you can compare the speed between CPU 
 
 
 
-# Training results
+# Snapshot of training results on GPU
 
 loss: 0.004168
 loss: 0.003697 
