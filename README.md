@@ -21,59 +21,111 @@ After running the above two version code, you can compare the speed between CPU 
 
 
 # Snapshot of training results on GPU
+Training loss:
 
 loss: 0.004168
+
 loss: 0.003697 
+
 loss: 0.003471 
+
 loss: 0.003288 
+
 loss: 0.003131 
+
 loss: 0.002994 
+
 loss: 0.002872 
+
 loss: 0.002763 
+
 loss: 0.002664 
+
 loss: 0.002573 
+
 loss: 0.002489 
+
 loss: 0.002412 
+
 loss: 0.002340 
+
 loss: 0.002274 
+
 loss: 0.002211 
+
 loss: 0.002153 
+
 loss: 0.002098 
+
 loss: 0.002047 
+
 loss: 0.001999 
+
 loss: 0.001953 
+
 loss: 0.001910 
+
 loss: 0.001869 
+
 loss: 0.001830 
+
 loss: 0.001793 
+
 loss: 0.001758 
+
 loss: 0.001725 
+
 loss: 0.001693 
+
 loss: 0.001662 
+
 loss: 0.001633 
+
 loss: 0.001605 
+
 loss: 0.001578 
+
 loss: 0.001552 
+
 loss: 0.001528 
+
 loss: 0.001504 
+
 loss: 0.001481 
+
 loss: 0.001459 
+
 loss: 0.001437 
+
 loss: 0.001417 
+
 loss: 0.001397 
+
 loss: 0.001378 
+
 loss: 0.001359 
+
 loss: 0.001342 
+
 loss: 0.001324 
+
 loss: 0.001307 
+
 loss: 0.001291 
+
 loss: 0.001275 
+
 loss: 0.001260 
+
 loss: 0.001245 
+
 loss: 0.001231 
 
 
 Time elapsed training  on GPU: 231026.109375 ms.
+
+
+Accuracy on training data:
 
 Predicted : 0.275531 True : 0.321664  
 Predicted : 0.414367 True : 0.362600  
