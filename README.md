@@ -23,11 +23,17 @@ After running the above two version code, you can compare the speed between CPU 
 # Training results
 
 loss: 0.004168 
+
 loss: 0.003697 
+
 loss: 0.003471 
+
 loss: 0.003288 
+
 loss: 0.003131 
+
 loss: 0.002994 
+
 loss: 0.002872 
 loss: 0.002763 
 loss: 0.002664 
